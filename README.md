@@ -1,5 +1,5 @@
 # DATACAMP
--Data Analysis
--Data Wrangling
--Data Visualisation 
--Machine Learning
+- Data Analysis
+- Data Wrangling
+- Data Visualisation 
+- Machine Learning
