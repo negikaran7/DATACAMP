@@ -1,4 +1,4 @@
-# ![DATACAMP](datacamp.com)
+# [DATACAMP](datacamp.com)
 - Data Analysis
 - Data Wrangling
 - Data Visualisation 
