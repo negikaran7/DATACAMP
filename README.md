@@ -3,3 +3,7 @@
 - Data Wrangling
 - Data Visualisation 
 - Machine Learning
+
+
+### **Scraping_quotesForDevelopers.ipynb**
+>Web Scraping & NLP in Python
