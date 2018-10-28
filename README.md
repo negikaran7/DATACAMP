@@ -14,3 +14,6 @@
 ### **Sqlite_to_pandas.ipynb**
 >converting Sqlite tables into dataframes using pandas
 
+### **movies**
+>working with movies dataset
+
