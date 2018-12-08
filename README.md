@@ -1,8 +1,5 @@
-# **[DATACAMP](https://www.datacamp.com)**
-- Data Analysis
-- Data Wrangling
-- Data Visualisation 
-- Machine Learning
+#### **Data_Science**
+>Data Analysis|Data Wrangling|Data Visualisation|Machine Learning
 
 
 ### **Scraping_quotesForDevelopers.ipynb**
