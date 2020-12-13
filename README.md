@@ -2,7 +2,7 @@
 >Data Analysis|Data Wrangling|Data Visualisation|Machine Learning
 
 
-### **Scraping_quotesForDevelopers.ipynb**
+### **[Scraping_quotesForDevelopers.ipynb](https://github.com/negikaran7/Data_Science/blob/master/Scraping_quotesForDevelopers.ipynb)**
 >Web Scraping & NLP in Python.
 
 ### **wordcloud**
