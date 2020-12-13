@@ -1,7 +1,7 @@
 ### **[Datacamp projects](https://github.com/negikaran7/Data_Science/tree/master/DataCamp%20Projects)**
 >implementations of different different Data Analysis|Data Wrangling|Data Visualisation|Machine Learning techniques 
 
-###**[Datacamp slides](https://github.com/negikaran7/Data_Science/tree/master/Datacamp)**
+### **[Datacamp slides](https://github.com/negikaran7/Data_Science/tree/master/Datacamp)**
 >useful documents for Data Analysis|Data Wrangling|Data Visualisation|Machine Learning
 
 ### **[Scraping_quotesForDevelopers.ipynb](https://github.com/negikaran7/Data_Science/blob/master/Scraping_quotesForDevelopers.ipynb)**
